@@ -2,7 +2,7 @@
 
 ## BFS (поиск в ширину)
 
-![граф для bfs]((https://github.com/TsengelBair/graph_search/blob/master/bfs.jpg)
+![граф для bfs](https://github.com/TsengelBair/graph_search/blob/master/bfs.jpg)
 
 [Поиск в ширину (улГТУ)](https://www.youtube.com/watch?v=4iDv8Zu8L3I&list=PLGhUJWLZ8uQ4EWdQwVyUFnz82kbeGRP97)
 
