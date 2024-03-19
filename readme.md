@@ -219,7 +219,7 @@ int main() {
 
 ## Алгоритм Форда-Беллмана
 
-![граф для Форда-Беллмана]("D:\projects\graphs\ford-bellman.jpg")
+![граф для Форда-Беллмана](https://github.com/TsengelBair/graph_search/blob/master/ford-bellman.jpg)
 
 [Хабр](https://habr.com/ru/companies/otus/articles/484382/)
 
