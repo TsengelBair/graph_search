@@ -148,9 +148,9 @@ int main() {
 
 ## Алгоритм Флойда-Уоршелла
 
-![суть алгоритма]("D:\projects\graphs\floyd_warshall_thesis.jpg")
+![Суть алгоритма](https://github.com/TsengelBair/graph_search/blob/master/floyd_warshall_thesis.jpg)
 
-![граф для уоршелла]("D:\projects\graphs\warshall.jpg")
+![граф для уоршелла](https://github.com/TsengelBair/graph_search/blob/master/warshall.jpg)
 
 [Идея алгоритма Флойда-Уоршелла (улГТУ)](https://www.youtube.com/watch?v=kaA3_qNfpCA)
 
