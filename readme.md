@@ -80,7 +80,7 @@ int main() {
 
 ## Дейкстра (очередь с приоритетом)
 
-![граф для дейкстры]("D:\projects\graphs\dkstar.jpg")
+![граф для дейкстры](https://github.com/TsengelBair/graph_search/blob/master/dkstar.jpg)
 
 [Идея алгоритма Дейкстры (улГТУ)](https://www.youtube.com/watch?v=fA_xvuqzuGs&t=458s)
 
